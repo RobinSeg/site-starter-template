@@ -1,0 +1,20 @@
+# Système d’exploitation
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers temporaires et journaux
+*.log
+.tmp/
+temp/
+
+# Variables d’environnement et secrets
+.env
+.env.*
+!.env.example
